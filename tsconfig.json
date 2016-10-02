@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "noEmitOnError": true,
+    "sourceMap": true,
+    "target": "es5"
+    //"outFile": "dist/cross.js",
+    //"declaration": true
+  },
+  "exclude": [
+	"dist",
+	"node_modules",
+	"bower_components"
+  ]
+}

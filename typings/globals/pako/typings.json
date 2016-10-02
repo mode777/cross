@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/1074806a34bffcbedf3a4fb9556a8c3c8ccc5e9d/pako/pako.d.ts",
+    "raw": "registry:dt/pako#0.0.0+20160719232514",
+    "typings": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/1074806a34bffcbedf3a4fb9556a8c3c8ccc5e9d/pako/pako.d.ts"
+  }
+}

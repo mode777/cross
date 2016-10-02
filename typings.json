@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "gl-matrix": "registry:dt/gl-matrix#2.2.2+20160815161326"
+  },
+  "globalDependencies": {
+    "pako": "registry:dt/pako#0.0.0+20160719232514"
+  }
+}

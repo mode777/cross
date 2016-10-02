@@ -1,0 +1,36 @@
+{
+  "name": "cross",
+  "version": "1.0.0",
+  "description": "An object oriented WebGL framework with a typescript bias.",
+  "main": "dist/cross.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mode777/cross.git"
+  },
+  "keywords": [
+    "webgl",
+    "typescript"
+  ],
+  "author": "Alexander Klingenbeck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mode777/cross/issues"
+  },
+  "homepage": "https://github.com/mode777/cross#readme",
+  "devDependencies": {
+    "browserify": "^13.1.0",
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.0.2",
+    "tsify": "^1.0.7",
+    "typescript": "^2.0.3",
+    "typings": "^1.4.0",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {
+    "gl-matrix": "^2.3.2",
+    "pako": "^1.0.3"
+  }
+}
