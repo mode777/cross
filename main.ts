@@ -1,4 +1,4 @@
-import cross from "./src";
+import * as Cross from "./src";
 
-(<any>window)["Cross"] = cross;
+(<any>window)["Cross"] = Cross;
 //console.log(cross);
