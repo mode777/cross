@@ -10,6 +10,7 @@ export * from "./Cameras";
 export * from "./Fonts";
 export * from "./Textures";
 export * from "./Tiles";
+export * from "./Transform3d";
 
 
 

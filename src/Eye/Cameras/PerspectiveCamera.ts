@@ -10,12 +10,6 @@ export class PerspectiveCamera extends Camera {
     private _position: Float32Array;
     private _target: Float32Array;
 
-    constructor();
-    constructor(position?: Float32Array);
-    constructor(position?: Float32Array, target?: Float32Array);
-    constructor(position?: Float32Array, target?: Float32Array, fov?: number);
-    constructor(position?: Float32Array, target?: Float32Array, fov?: number, aspectRatio?: number);
-    constructor(position?: Float32Array, target?: Float32Array, fov?: number, aspectRatio?: number, nearPlane?: number);
     constructor(position?: Float32Array, target?: Float32Array, fov?: number, aspectRatio?: number, nearPlane?: number, farPlane?: number) {
         super();
         this._target = target || vec3.create(); // Vector3.Zero
